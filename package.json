@@ -1,0 +1,22 @@
+{
+  "name": "firstapp",
+  "version": "1.0.0",
+  "description": "flutter app",
+  "main": "''",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "flutter packages pub run build_runner watch --delete-conflicting-outputs"
+  },
+  "keywords": [
+    "flutter",
+    "mobx",
+    "state",
+    "router"
+  ],
+  "author": "huaqingyi",
+  "license": "ISC"
+}
